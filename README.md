@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="banner.jpg" alt="Profile Banner" width="100%" />
+</div>
+
+<br/>
+
 # Hi there, I'm Jamin F. Shanti 👋
 
 ### ☁️ Hands-On DevOps Coach | Automation & Infrastructure Specialist
