@@ -34,8 +34,8 @@ I am a technologist based in the Charlotte, NC area, specializing in cloud compu
 
 <!-- These cards dynamically pull your GitHub stats and apply a colorful theme -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaminShanti&show_icons=true&theme=radical&hide_border=true" alt="Jamin's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaminShanti&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JaminShanti&show_icons=true&theme=radical&hide_border=true&v=1" alt="Jamin's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaminShanti&layout=compact&theme=radical&hide_border=true&v=1" alt="Top Languages" width="48%" />
 </div>
 
 <br/>
